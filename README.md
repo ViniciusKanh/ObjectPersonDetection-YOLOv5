@@ -1,7 +1,7 @@
 <h1 align="center">Detecção de Objetos e Pessoas com YOLOv5</h1>
 
 <p align="center">
-  <img src="https://github.com/ViniciusKanh/ObjectPersonDetection-YOLOv5/assets/cover.png" alt="Imagem de Capa">
+  <img src="https://github.com/ViniciusKanh/ObjectPersonDetection-YOLOv5/blob/main/assests/Yolo.png" alt="Imagem de Capa">
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@ Bem-vindo ao projeto de Detecção de Objetos e Pessoas com YOLOv5. Este projeto
 
 ### Detecção em Tempo Real
 
-![GIF de Detecção em Tempo Real](https://github.com/ViniciusKanh/ObjectPersonDetection-YOLOv5/assets/demo.gif)
+![GIF de Detecção em Tempo Real](https://github.com/ViniciusKanh/ObjectPersonDetection-YOLOv5/blob/main/assests/detected_No%20Bras.jpg)
 
 ### Detecção em Imagens
 
-![Imagem de Detecção em Imagem](https://github.com/ViniciusKanh/ObjectPersonDetection-YOLOv5/assets/image.png)
+![Imagem de Detecção em Imagem](https://github.com/ViniciusKanh/ObjectPersonDetection-YOLOv5/blob/main/assests/CentroSP.png)
 
 ---
 
